@@ -34,3 +34,10 @@ Second roll player one  gets 6 points, so this round he get 13 points.
 
 ![](https://github.com/linchiahui/JavaScript-Mini-Pig-Dice-Game/blob/master/src/pic/Second%20Roll.PNG)
 
+If player 1 decides to hold the score, palyer 1 will get 13 point add up to final score, and turn the dices to player 2.
+
+![](https://github.com/linchiahui/JavaScript-Mini-Pig-Dice-Game/blob/master/src/pic/Hold%20Score.PNG)
+
+But if player 1 decides to roo agian and roll to 1. player 1 will lose point in this round and turn the dices to player 2.
+
+![](https://github.com/linchiahui/JavaScript-Mini-Pig-Dice-Game/blob/master/src/pic/Turn%20opponent.PNG)
