@@ -41,3 +41,9 @@ If player 1 decides to hold the score, palyer 1 will get 13 point add up to fina
 But if player 1 decides to roo agian and roll to 1. player 1 will lose point in this round and turn the dices to player 2.
 
 ![](https://github.com/linchiahui/JavaScript-Mini-Pig-Dice-Game/blob/master/src/pic/Turn%20opponent.PNG)
+
+### Winner!!
+
+First one reaches the target 50 points is winner.
+
+![](https://github.com/linchiahui/JavaScript-Mini-Pig-Dice-Game/blob/master/src/pic/Winner.PNG)
