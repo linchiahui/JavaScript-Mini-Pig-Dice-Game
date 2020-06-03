@@ -13,3 +13,7 @@
 * If you want to give up roll the dices this round, you can hold your score in this round, it will add up to your final score.
 
 * First one reach the final goal score is winner.
+
+### Game Start
+
+![](https://github.com/linchiahui/JavaScript-Mini-Pig-Dice-Game/blob/master/src/pic/Init.PNG)
