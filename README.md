@@ -2,7 +2,7 @@
 
 ### Game Rule
 
-* User can set their goal score.
+* User can set their goal score, default is 100.
 
 * Each time, use will roll two dices.
 
@@ -17,3 +17,20 @@
 ### Game Start
 
 ![](https://github.com/linchiahui/JavaScript-Mini-Pig-Dice-Game/blob/master/src/pic/Init.PNG)
+
+### Set the Goal
+
+Set the goal to 50.
+
+![](https://github.com/linchiahui/JavaScript-Mini-Pig-Dice-Game/blob/master/src/pic/Set%20Goal.PNG)
+
+### In the Game
+
+First roll player one gets 7 points
+
+![](https://github.com/linchiahui/JavaScript-Mini-Pig-Dice-Game/blob/master/src/pic/First%20Roll.PNG)
+
+Second roll player one  gets 6 points, so this round he get 13 points.
+
+![](https://github.com/linchiahui/JavaScript-Mini-Pig-Dice-Game/blob/master/src/pic/Second%20Roll.PNG)
+
